@@ -47,7 +47,8 @@ def show_output_and_input():
                   "用户应充分知晓并理解，使用本软件可能面临的风险，例如2025年2月22日发生的黎明杀机中文插件EAC误封事件。\n"
                   "用户使用本软件的行为，视为已完全理解并接受上述风险。\n"
                   "作者:Yoru \n"
-                  "本软件遵循GNU通用公共许可证（GPL）协议开源\n")
+                  "本软件遵循GNU通用公共许可证（GPL）协议开源\n"
+                  "本软件GitHub地址:https://github.com/Yoruuuuuusama/DBD_Chinese_Input_Helper")
 
     root = tk.Tk()  # 创建 Tkinter 窗口实例
     root.title("中文插件")  # 设置窗口标题
