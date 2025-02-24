@@ -9,8 +9,14 @@
 wewrwtwade@gmail.com
 
 感谢名单：
-    
-
+    boppreh
+    Donald Stufft
+    erocarrera
+    The Python Package Index (PyPI)
+    PyInstaller Development Team
+    pyinstaller-hooks-contrib
+    Christoph Gohlke
+    The setuptools Development Team
 """
 作者：Yoru
 版权 (c) 2025, Yoru
