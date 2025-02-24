@@ -43,18 +43,19 @@ def listen_for_enter_key(input_entry, output_text, error_label):
 
 def show_output_and_input():
     # 创建主窗口，并显示免责声明
-    disclaimer = ("本软件仅供用户自行使用，作者不对使用本软件可能导致的任何后果承担法律责任。\n"
-                  "用户应充分知晓并理解，使用本软件可能面临的风险，例如2025年2月22日发生的黎明杀机中文插件EAC误封事件。\n"
-                  "用户使用本软件的行为，视为已完全理解并接受上述风险。\n"
+    disclaimer = ("本软件仅供用户自行使用，作者不对使用本软件可能导致的任何后果承担法律责任\n"
+                  "用户应充分知晓并理解，使用本软件可能面临的风险，例如2025年2月22日发生的黎明杀机中文插件EAC误封事件\n"
+                  "用户使用本软件的行为，视为已完全理解并接受上述风险\n"
                   "作者:Yoru \n"
                   "本软件遵循GNU通用公共许可证（GPL）协议开源\n"
-                  "本软件GitHub地址:https://github.com/Yoruuuuuusama/DBD_Chinese_Input_Helper")
+                  "本软件GitHub地址:https://github.com/Yoruuuuuusama/DBD_CN_INPUT\n"
+                  "使用教程:在软件中输入文字后，点击游戏内输入框并按回车键即可输入")
 
     root = tk.Tk()  # 创建 Tkinter 窗口实例
     root.title("中文插件")  # 设置窗口标题
 
     # 创建输出文本框，显示处理结果
-    output_text = tk.Text(root, wrap=tk.WORD, height=10, width=50)
+    output_text = tk.Text(root, wrap=tk.WORD, height=15, width=50)
     output_text.pack(padx=10, pady=10)  # 添加到窗口，并设置边距
 
     # 创建输入框，用户在此输入数据
