@@ -9,7 +9,7 @@
 wewrwtwade@gmail.com
 
 感谢名单：
-    ChatGPT
+    
 
 """
 作者：Yoru
