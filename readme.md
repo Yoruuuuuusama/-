@@ -17,6 +17,9 @@ wewrwtwade@gmail.com
     pyinstaller-hooks-contrib
     Christoph Gohlke
     The setuptools Development Team
+    
+    测试人员：
+        
 """
 作者：Yoru
 版权 (c) 2025, Yoru
@@ -46,4 +49,17 @@ fitness for a particular purpose, or noninfringement. The author is not liable f
 any damages caused by the use of this software.
 
 For full license details, see LICENSE file.
+
+                                Acknowledgments
+Special thanks to the following individuals and teams for their contributions and support:
+
+    boppreh
+    Donald Stufft
+    erocarrera
+    The Python Package Index (PyPI)
+    PyInstaller Development Team
+    pyinstaller-hooks-contrib
+    Christoph Gohlke
+    The setuptools Development Team
+
 """
